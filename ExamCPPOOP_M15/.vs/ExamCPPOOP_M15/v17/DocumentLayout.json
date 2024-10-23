@@ -1,0 +1,585 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\Desktop\\Test GitHub\\C\u002B\u002B OOP M15 Project\\C-OOP-M15-Exam\\ExamCPPOOP_M15\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D4DBEC23-8C75-40D8-A48E-AACCC0D8BB26}|ExamCPPOOP_M15.vcxproj|C:\\Users\\ASUS\\Desktop\\Test GitHub\\C\u002B\u002B OOP M15 Project\\C-OOP-M15-Exam\\ExamCPPOOP_M15\\User.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D4DBEC23-8C75-40D8-A48E-AACCC0D8BB26}|ExamCPPOOP_M15.vcxproj|solutionrelative:User.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4DBEC23-8C75-40D8-A48E-AACCC0D8BB26}|ExamCPPOOP_M15.vcxproj|C:\\Users\\ASUS\\Desktop\\Test GitHub\\C\u002B\u002B OOP M15 Project\\C-OOP-M15-Exam\\ExamCPPOOP_M15\\Test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D4DBEC23-8C75-40D8-A48E-AACCC0D8BB26}|ExamCPPOOP_M15.vcxproj|solutionrelative:Test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4DBEC23-8C75-40D8-A48E-AACCC0D8BB26}|ExamCPPOOP_M15.vcxproj|C:\\Users\\ASUS\\Desktop\\Test GitHub\\C\u002B\u002B OOP M15 Project\\C-OOP-M15-Exam\\ExamCPPOOP_M15\\StudentMenu.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D4DBEC23-8C75-40D8-A48E-AACCC0D8BB26}|ExamCPPOOP_M15.vcxproj|solutionrelative:StudentMenu.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4DBEC23-8C75-40D8-A48E-AACCC0D8BB26}|ExamCPPOOP_M15.vcxproj|C:\\Users\\ASUS\\Desktop\\Test GitHub\\C\u002B\u002B OOP M15 Project\\C-OOP-M15-Exam\\ExamCPPOOP_M15\\Student.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D4DBEC23-8C75-40D8-A48E-AACCC0D8BB26}|ExamCPPOOP_M15.vcxproj|solutionrelative:Student.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4DBEC23-8C75-40D8-A48E-AACCC0D8BB26}|ExamCPPOOP_M15.vcxproj|C:\\Users\\ASUS\\Desktop\\Test GitHub\\C\u002B\u002B OOP M15 Project\\C-OOP-M15-Exam\\ExamCPPOOP_M15\\Question.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D4DBEC23-8C75-40D8-A48E-AACCC0D8BB26}|ExamCPPOOP_M15.vcxproj|solutionrelative:Question.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4DBEC23-8C75-40D8-A48E-AACCC0D8BB26}|ExamCPPOOP_M15.vcxproj|C:\\Users\\ASUS\\Desktop\\Test GitHub\\C\u002B\u002B OOP M15 Project\\C-OOP-M15-Exam\\ExamCPPOOP_M15\\MainMenu.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D4DBEC23-8C75-40D8-A48E-AACCC0D8BB26}|ExamCPPOOP_M15.vcxproj|solutionrelative:MainMenu.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4DBEC23-8C75-40D8-A48E-AACCC0D8BB26}|ExamCPPOOP_M15.vcxproj|C:\\Users\\ASUS\\Desktop\\Test GitHub\\C\u002B\u002B OOP M15 Project\\C-OOP-M15-Exam\\ExamCPPOOP_M15\\ExamRecord.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D4DBEC23-8C75-40D8-A48E-AACCC0D8BB26}|ExamCPPOOP_M15.vcxproj|solutionrelative:ExamRecord.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\Desktop\\Test GitHub\\C\u002B\u002B OOP M15 Project\\C-OOP-M15-Exam\\ExamCPPOOP_M15\\users.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:users.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4DBEC23-8C75-40D8-A48E-AACCC0D8BB26}|ExamCPPOOP_M15.vcxproj|C:\\Users\\ASUS\\Desktop\\Test GitHub\\C\u002B\u002B OOP M15 Project\\C-OOP-M15-Exam\\ExamCPPOOP_M15\\User.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D4DBEC23-8C75-40D8-A48E-AACCC0D8BB26}|ExamCPPOOP_M15.vcxproj|solutionrelative:User.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\Desktop\\Test GitHub\\C\u002B\u002B OOP M15 Project\\C-OOP-M15-Exam\\ExamCPPOOP_M15\\tests.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:tests.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\Desktop\\Test GitHub\\C\u002B\u002B OOP M15 Project\\C-OOP-M15-Exam\\ExamCPPOOP_M15\\TestManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TestManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\Desktop\\Test GitHub\\C\u002B\u002B OOP M15 Project\\C-OOP-M15-Exam\\ExamCPPOOP_M15\\TestManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TestManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4DBEC23-8C75-40D8-A48E-AACCC0D8BB26}|ExamCPPOOP_M15.vcxproj|C:\\Users\\ASUS\\Desktop\\Test GitHub\\C\u002B\u002B OOP M15 Project\\C-OOP-M15-Exam\\ExamCPPOOP_M15\\Test.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D4DBEC23-8C75-40D8-A48E-AACCC0D8BB26}|ExamCPPOOP_M15.vcxproj|solutionrelative:Test.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4DBEC23-8C75-40D8-A48E-AACCC0D8BB26}|ExamCPPOOP_M15.vcxproj|C:\\Users\\ASUS\\Desktop\\Test GitHub\\C\u002B\u002B OOP M15 Project\\C-OOP-M15-Exam\\ExamCPPOOP_M15\\StudentMenu.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D4DBEC23-8C75-40D8-A48E-AACCC0D8BB26}|ExamCPPOOP_M15.vcxproj|solutionrelative:StudentMenu.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4DBEC23-8C75-40D8-A48E-AACCC0D8BB26}|ExamCPPOOP_M15.vcxproj|C:\\Users\\ASUS\\Desktop\\Test GitHub\\C\u002B\u002B OOP M15 Project\\C-OOP-M15-Exam\\ExamCPPOOP_M15\\Student.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D4DBEC23-8C75-40D8-A48E-AACCC0D8BB26}|ExamCPPOOP_M15.vcxproj|solutionrelative:Student.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4DBEC23-8C75-40D8-A48E-AACCC0D8BB26}|ExamCPPOOP_M15.vcxproj|C:\\Users\\ASUS\\Desktop\\Test GitHub\\C\u002B\u002B OOP M15 Project\\C-OOP-M15-Exam\\ExamCPPOOP_M15\\Question.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D4DBEC23-8C75-40D8-A48E-AACCC0D8BB26}|ExamCPPOOP_M15.vcxproj|solutionrelative:Question.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\Desktop\\Test GitHub\\C\u002B\u002B OOP M15 Project\\C-OOP-M15-Exam\\ExamCPPOOP_M15\\MenuUser.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MenuUser.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\Desktop\\Test GitHub\\C\u002B\u002B OOP M15 Project\\C-OOP-M15-Exam\\ExamCPPOOP_M15\\MenuUser.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MenuUser.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4DBEC23-8C75-40D8-A48E-AACCC0D8BB26}|ExamCPPOOP_M15.vcxproj|C:\\Users\\ASUS\\Desktop\\Test GitHub\\C\u002B\u002B OOP M15 Project\\C-OOP-M15-Exam\\ExamCPPOOP_M15\\MainMenu.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D4DBEC23-8C75-40D8-A48E-AACCC0D8BB26}|ExamCPPOOP_M15.vcxproj|solutionrelative:MainMenu.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4DBEC23-8C75-40D8-A48E-AACCC0D8BB26}|ExamCPPOOP_M15.vcxproj|C:\\USERS\\ASUS\\DESKTOP\\TEST GITHUB\\C\u002B\u002B OOP M15 PROJECT\\C-OOP-M15-EXAM\\EXAMCPPOOP_M15\\JSON.HPP||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D4DBEC23-8C75-40D8-A48E-AACCC0D8BB26}|ExamCPPOOP_M15.vcxproj|solutionrelative:JSON.HPP||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4DBEC23-8C75-40D8-A48E-AACCC0D8BB26}|ExamCPPOOP_M15.vcxproj|C:\\Users\\ASUS\\Desktop\\Test GitHub\\C\u002B\u002B OOP M15 Project\\C-OOP-M15-Exam\\ExamCPPOOP_M15\\FileManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D4DBEC23-8C75-40D8-A48E-AACCC0D8BB26}|ExamCPPOOP_M15.vcxproj|solutionrelative:FileManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4DBEC23-8C75-40D8-A48E-AACCC0D8BB26}|ExamCPPOOP_M15.vcxproj|C:\\Users\\ASUS\\Desktop\\Test GitHub\\C\u002B\u002B OOP M15 Project\\C-OOP-M15-Exam\\ExamCPPOOP_M15\\FileManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D4DBEC23-8C75-40D8-A48E-AACCC0D8BB26}|ExamCPPOOP_M15.vcxproj|solutionrelative:FileManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\Desktop\\Test GitHub\\C\u002B\u002B OOP M15 Project\\C-OOP-M15-Exam\\ExamCPPOOP_M15\\exam_results.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:exam_results.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\Desktop\\Test GitHub\\C\u002B\u002B OOP M15 Project\\C-OOP-M15-Exam\\ExamCPPOOP_M15\\ExamResult.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ExamResult.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\Desktop\\Test GitHub\\C\u002B\u002B OOP M15 Project\\C-OOP-M15-Exam\\ExamCPPOOP_M15\\ExamResult.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ExamResult.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4DBEC23-8C75-40D8-A48E-AACCC0D8BB26}|ExamCPPOOP_M15.vcxproj|C:\\Users\\ASUS\\Desktop\\Test GitHub\\C\u002B\u002B OOP M15 Project\\C-OOP-M15-Exam\\ExamCPPOOP_M15\\ExamRecord.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D4DBEC23-8C75-40D8-A48E-AACCC0D8BB26}|ExamCPPOOP_M15.vcxproj|solutionrelative:ExamRecord.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\Desktop\\Test GitHub\\C\u002B\u002B OOP M15 Project\\C-OOP-M15-Exam\\ExamCPPOOP_M15\\ExamCPPOOP_M15.vcxproj.user||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ExamCPPOOP_M15.vcxproj.user||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4DBEC23-8C75-40D8-A48E-AACCC0D8BB26}|ExamCPPOOP_M15.vcxproj|C:\\Users\\ASUS\\Desktop\\Test GitHub\\C\u002B\u002B OOP M15 Project\\C-OOP-M15-Exam\\ExamCPPOOP_M15\\ExamCPPOOP_M15.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D4DBEC23-8C75-40D8-A48E-AACCC0D8BB26}|ExamCPPOOP_M15.vcxproj|solutionrelative:ExamCPPOOP_M15.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4DBEC23-8C75-40D8-A48E-AACCC0D8BB26}|ExamCPPOOP_M15.vcxproj|C:\\Users\\ASUS\\Desktop\\Test GitHub\\C\u002B\u002B OOP M15 Project\\C-OOP-M15-Exam\\ExamCPPOOP_M15\\AdminMenu.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D4DBEC23-8C75-40D8-A48E-AACCC0D8BB26}|ExamCPPOOP_M15.vcxproj|solutionrelative:AdminMenu.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4DBEC23-8C75-40D8-A48E-AACCC0D8BB26}|ExamCPPOOP_M15.vcxproj|C:\\Users\\ASUS\\Desktop\\Test GitHub\\C\u002B\u002B OOP M15 Project\\C-OOP-M15-Exam\\ExamCPPOOP_M15\\Admin.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D4DBEC23-8C75-40D8-A48E-AACCC0D8BB26}|ExamCPPOOP_M15.vcxproj|solutionrelative:Admin.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4DBEC23-8C75-40D8-A48E-AACCC0D8BB26}|ExamCPPOOP_M15.vcxproj|C:\\Users\\ASUS\\Desktop\\Test GitHub\\C\u002B\u002B OOP M15 Project\\C-OOP-M15-Exam\\ExamCPPOOP_M15\\AdminMenu.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D4DBEC23-8C75-40D8-A48E-AACCC0D8BB26}|ExamCPPOOP_M15.vcxproj|solutionrelative:AdminMenu.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\Desktop\\Test GitHub\\C\u002B\u002B OOP M15 Project\\C-OOP-M15-Exam\\ExamCPPOOP_M15\\admin.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:admin.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4DBEC23-8C75-40D8-A48E-AACCC0D8BB26}|ExamCPPOOP_M15.vcxproj|C:\\Users\\ASUS\\Desktop\\Test GitHub\\C\u002B\u002B OOP M15 Project\\C-OOP-M15-Exam\\ExamCPPOOP_M15\\Admin.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D4DBEC23-8C75-40D8-A48E-AACCC0D8BB26}|ExamCPPOOP_M15.vcxproj|solutionrelative:Admin.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Question.cpp",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Test GitHub\\C\u002B\u002B OOP M15 Project\\C-OOP-M15-Exam\\ExamCPPOOP_M15\\Question.cpp",
+              "RelativeDocumentMoniker": "Question.cpp",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Test GitHub\\C\u002B\u002B OOP M15 Project\\C-OOP-M15-Exam\\ExamCPPOOP_M15\\Question.cpp",
+              "RelativeToolTip": "Question.cpp",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-23T13:30:59.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Student.cpp",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Test GitHub\\C\u002B\u002B OOP M15 Project\\C-OOP-M15-Exam\\ExamCPPOOP_M15\\Student.cpp",
+              "RelativeDocumentMoniker": "Student.cpp",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Test GitHub\\C\u002B\u002B OOP M15 Project\\C-OOP-M15-Exam\\ExamCPPOOP_M15\\Student.cpp",
+              "RelativeToolTip": "Student.cpp",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-23T13:31:01.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentMenu.cpp",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Test GitHub\\C\u002B\u002B OOP M15 Project\\C-OOP-M15-Exam\\ExamCPPOOP_M15\\StudentMenu.cpp",
+              "RelativeDocumentMoniker": "StudentMenu.cpp",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Test GitHub\\C\u002B\u002B OOP M15 Project\\C-OOP-M15-Exam\\ExamCPPOOP_M15\\StudentMenu.cpp",
+              "RelativeToolTip": "StudentMenu.cpp",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAIAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-23T13:31:02.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Test.cpp",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Test GitHub\\C\u002B\u002B OOP M15 Project\\C-OOP-M15-Exam\\ExamCPPOOP_M15\\Test.cpp",
+              "RelativeDocumentMoniker": "Test.cpp",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Test GitHub\\C\u002B\u002B OOP M15 Project\\C-OOP-M15-Exam\\ExamCPPOOP_M15\\Test.cpp",
+              "RelativeToolTip": "Test.cpp",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-23T13:31:03.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "User.cpp",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Test GitHub\\C\u002B\u002B OOP M15 Project\\C-OOP-M15-Exam\\ExamCPPOOP_M15\\User.cpp",
+              "RelativeDocumentMoniker": "User.cpp",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Test GitHub\\C\u002B\u002B OOP M15 Project\\C-OOP-M15-Exam\\ExamCPPOOP_M15\\User.cpp",
+              "RelativeToolTip": "User.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-23T13:31:04.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainMenu.cpp",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Test GitHub\\C\u002B\u002B OOP M15 Project\\C-OOP-M15-Exam\\ExamCPPOOP_M15\\MainMenu.cpp",
+              "RelativeDocumentMoniker": "MainMenu.cpp",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Test GitHub\\C\u002B\u002B OOP M15 Project\\C-OOP-M15-Exam\\ExamCPPOOP_M15\\MainMenu.cpp",
+              "RelativeToolTip": "MainMenu.cpp",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-23T13:30:57.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ExamRecord.cpp",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Test GitHub\\C\u002B\u002B OOP M15 Project\\C-OOP-M15-Exam\\ExamCPPOOP_M15\\ExamRecord.cpp",
+              "RelativeDocumentMoniker": "ExamRecord.cpp",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Test GitHub\\C\u002B\u002B OOP M15 Project\\C-OOP-M15-Exam\\ExamCPPOOP_M15\\ExamRecord.cpp",
+              "RelativeToolTip": "ExamRecord.cpp",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-23T13:30:55.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "users.json",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Test GitHub\\C\u002B\u002B OOP M15 Project\\C-OOP-M15-Exam\\ExamCPPOOP_M15\\users.json",
+              "RelativeDocumentMoniker": "users.json",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Test GitHub\\C\u002B\u002B OOP M15 Project\\C-OOP-M15-Exam\\ExamCPPOOP_M15\\users.json",
+              "RelativeToolTip": "users.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-23T14:02:15.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "User.h",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Test GitHub\\C\u002B\u002B OOP M15 Project\\C-OOP-M15-Exam\\ExamCPPOOP_M15\\User.h",
+              "RelativeDocumentMoniker": "User.h",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Test GitHub\\C\u002B\u002B OOP M15 Project\\C-OOP-M15-Exam\\ExamCPPOOP_M15\\User.h",
+              "RelativeToolTip": "User.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-23T14:02:15.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "tests.json",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Test GitHub\\C\u002B\u002B OOP M15 Project\\C-OOP-M15-Exam\\ExamCPPOOP_M15\\tests.json",
+              "RelativeDocumentMoniker": "tests.json",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Test GitHub\\C\u002B\u002B OOP M15 Project\\C-OOP-M15-Exam\\ExamCPPOOP_M15\\tests.json",
+              "RelativeToolTip": "tests.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-23T14:02:15.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TestManager.h",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Test GitHub\\C\u002B\u002B OOP M15 Project\\C-OOP-M15-Exam\\ExamCPPOOP_M15\\TestManager.h",
+              "RelativeDocumentMoniker": "TestManager.h",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Test GitHub\\C\u002B\u002B OOP M15 Project\\C-OOP-M15-Exam\\ExamCPPOOP_M15\\TestManager.h",
+              "RelativeToolTip": "TestManager.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-23T14:02:15.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TestManager.cpp",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Test GitHub\\C\u002B\u002B OOP M15 Project\\C-OOP-M15-Exam\\ExamCPPOOP_M15\\TestManager.cpp",
+              "RelativeDocumentMoniker": "TestManager.cpp",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Test GitHub\\C\u002B\u002B OOP M15 Project\\C-OOP-M15-Exam\\ExamCPPOOP_M15\\TestManager.cpp",
+              "RelativeToolTip": "TestManager.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-23T14:02:14.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Test.h",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Test GitHub\\C\u002B\u002B OOP M15 Project\\C-OOP-M15-Exam\\ExamCPPOOP_M15\\Test.h",
+              "RelativeDocumentMoniker": "Test.h",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Test GitHub\\C\u002B\u002B OOP M15 Project\\C-OOP-M15-Exam\\ExamCPPOOP_M15\\Test.h",
+              "RelativeToolTip": "Test.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-23T14:02:14.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "StudentMenu.h",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Test GitHub\\C\u002B\u002B OOP M15 Project\\C-OOP-M15-Exam\\ExamCPPOOP_M15\\StudentMenu.h",
+              "RelativeDocumentMoniker": "StudentMenu.h",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Test GitHub\\C\u002B\u002B OOP M15 Project\\C-OOP-M15-Exam\\ExamCPPOOP_M15\\StudentMenu.h",
+              "RelativeToolTip": "StudentMenu.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-23T14:02:14.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Student.h",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Test GitHub\\C\u002B\u002B OOP M15 Project\\C-OOP-M15-Exam\\ExamCPPOOP_M15\\Student.h",
+              "RelativeDocumentMoniker": "Student.h",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Test GitHub\\C\u002B\u002B OOP M15 Project\\C-OOP-M15-Exam\\ExamCPPOOP_M15\\Student.h",
+              "RelativeToolTip": "Student.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-23T14:02:14.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Question.h",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Test GitHub\\C\u002B\u002B OOP M15 Project\\C-OOP-M15-Exam\\ExamCPPOOP_M15\\Question.h",
+              "RelativeDocumentMoniker": "Question.h",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Test GitHub\\C\u002B\u002B OOP M15 Project\\C-OOP-M15-Exam\\ExamCPPOOP_M15\\Question.h",
+              "RelativeToolTip": "Question.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-23T14:02:14.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MenuUser.h",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Test GitHub\\C\u002B\u002B OOP M15 Project\\C-OOP-M15-Exam\\ExamCPPOOP_M15\\MenuUser.h",
+              "RelativeDocumentMoniker": "MenuUser.h",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Test GitHub\\C\u002B\u002B OOP M15 Project\\C-OOP-M15-Exam\\ExamCPPOOP_M15\\MenuUser.h",
+              "RelativeToolTip": "MenuUser.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-23T14:02:14.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "MenuUser.cpp",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Test GitHub\\C\u002B\u002B OOP M15 Project\\C-OOP-M15-Exam\\ExamCPPOOP_M15\\MenuUser.cpp",
+              "RelativeDocumentMoniker": "MenuUser.cpp",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Test GitHub\\C\u002B\u002B OOP M15 Project\\C-OOP-M15-Exam\\ExamCPPOOP_M15\\MenuUser.cpp",
+              "RelativeToolTip": "MenuUser.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-23T14:02:14.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "MainMenu.h",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Test GitHub\\C\u002B\u002B OOP M15 Project\\C-OOP-M15-Exam\\ExamCPPOOP_M15\\MainMenu.h",
+              "RelativeDocumentMoniker": "MainMenu.h",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Test GitHub\\C\u002B\u002B OOP M15 Project\\C-OOP-M15-Exam\\ExamCPPOOP_M15\\MainMenu.h",
+              "RelativeToolTip": "MainMenu.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-23T14:02:14.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "json.hpp",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Test GitHub\\C\u002B\u002B OOP M15 Project\\C-OOP-M15-Exam\\ExamCPPOOP_M15\\json.hpp",
+              "RelativeDocumentMoniker": "json.hpp",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Test GitHub\\C\u002B\u002B OOP M15 Project\\C-OOP-M15-Exam\\ExamCPPOOP_M15\\json.hpp",
+              "RelativeToolTip": "json.hpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-23T14:02:14.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "FileManager.h",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Test GitHub\\C\u002B\u002B OOP M15 Project\\C-OOP-M15-Exam\\ExamCPPOOP_M15\\FileManager.h",
+              "RelativeDocumentMoniker": "FileManager.h",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Test GitHub\\C\u002B\u002B OOP M15 Project\\C-OOP-M15-Exam\\ExamCPPOOP_M15\\FileManager.h",
+              "RelativeToolTip": "FileManager.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-23T14:02:14.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ExamResult.h",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Test GitHub\\C\u002B\u002B OOP M15 Project\\C-OOP-M15-Exam\\ExamCPPOOP_M15\\ExamResult.h",
+              "RelativeDocumentMoniker": "ExamResult.h",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Test GitHub\\C\u002B\u002B OOP M15 Project\\C-OOP-M15-Exam\\ExamCPPOOP_M15\\ExamResult.h",
+              "RelativeToolTip": "ExamResult.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-23T14:02:13.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ExamResult.cpp",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Test GitHub\\C\u002B\u002B OOP M15 Project\\C-OOP-M15-Exam\\ExamCPPOOP_M15\\ExamResult.cpp",
+              "RelativeDocumentMoniker": "ExamResult.cpp",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Test GitHub\\C\u002B\u002B OOP M15 Project\\C-OOP-M15-Exam\\ExamCPPOOP_M15\\ExamResult.cpp",
+              "RelativeToolTip": "ExamResult.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-23T14:02:13.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "exam_results.json",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Test GitHub\\C\u002B\u002B OOP M15 Project\\C-OOP-M15-Exam\\ExamCPPOOP_M15\\exam_results.json",
+              "RelativeDocumentMoniker": "exam_results.json",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Test GitHub\\C\u002B\u002B OOP M15 Project\\C-OOP-M15-Exam\\ExamCPPOOP_M15\\exam_results.json",
+              "RelativeToolTip": "exam_results.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-23T13:58:05.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "FileManager.cpp",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Test GitHub\\C\u002B\u002B OOP M15 Project\\C-OOP-M15-Exam\\ExamCPPOOP_M15\\FileManager.cpp",
+              "RelativeDocumentMoniker": "FileManager.cpp",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Test GitHub\\C\u002B\u002B OOP M15 Project\\C-OOP-M15-Exam\\ExamCPPOOP_M15\\FileManager.cpp",
+              "RelativeToolTip": "FileManager.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-23T13:30:56.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ExamRecord.h",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Test GitHub\\C\u002B\u002B OOP M15 Project\\C-OOP-M15-Exam\\ExamCPPOOP_M15\\ExamRecord.h",
+              "RelativeDocumentMoniker": "ExamRecord.h",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Test GitHub\\C\u002B\u002B OOP M15 Project\\C-OOP-M15-Exam\\ExamCPPOOP_M15\\ExamRecord.h",
+              "RelativeToolTip": "ExamRecord.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-23T14:02:13.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ExamCPPOOP_M15.vcxproj.user",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Test GitHub\\C\u002B\u002B OOP M15 Project\\C-OOP-M15-Exam\\ExamCPPOOP_M15\\ExamCPPOOP_M15.vcxproj.user",
+              "RelativeDocumentMoniker": "ExamCPPOOP_M15.vcxproj.user",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Test GitHub\\C\u002B\u002B OOP M15 Project\\C-OOP-M15-Exam\\ExamCPPOOP_M15\\ExamCPPOOP_M15.vcxproj.user",
+              "RelativeToolTip": "ExamCPPOOP_M15.vcxproj.user",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003464|",
+              "WhenOpened": "2024-10-23T14:02:13.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ExamCPPOOP_M15.cpp",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Test GitHub\\C\u002B\u002B OOP M15 Project\\C-OOP-M15-Exam\\ExamCPPOOP_M15\\ExamCPPOOP_M15.cpp",
+              "RelativeDocumentMoniker": "ExamCPPOOP_M15.cpp",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Test GitHub\\C\u002B\u002B OOP M15 Project\\C-OOP-M15-Exam\\ExamCPPOOP_M15\\ExamCPPOOP_M15.cpp",
+              "RelativeToolTip": "ExamCPPOOP_M15.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-23T13:30:54.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Admin.cpp",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Test GitHub\\C\u002B\u002B OOP M15 Project\\C-OOP-M15-Exam\\ExamCPPOOP_M15\\Admin.cpp",
+              "RelativeDocumentMoniker": "Admin.cpp",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Test GitHub\\C\u002B\u002B OOP M15 Project\\C-OOP-M15-Exam\\ExamCPPOOP_M15\\Admin.cpp",
+              "RelativeToolTip": "Admin.cpp",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-23T13:30:50.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "AdminMenu.h",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Test GitHub\\C\u002B\u002B OOP M15 Project\\C-OOP-M15-Exam\\ExamCPPOOP_M15\\AdminMenu.h",
+              "RelativeDocumentMoniker": "AdminMenu.h",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Test GitHub\\C\u002B\u002B OOP M15 Project\\C-OOP-M15-Exam\\ExamCPPOOP_M15\\AdminMenu.h",
+              "RelativeToolTip": "AdminMenu.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-23T14:02:05.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "AdminMenu.cpp",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Test GitHub\\C\u002B\u002B OOP M15 Project\\C-OOP-M15-Exam\\ExamCPPOOP_M15\\AdminMenu.cpp",
+              "RelativeDocumentMoniker": "AdminMenu.cpp",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Test GitHub\\C\u002B\u002B OOP M15 Project\\C-OOP-M15-Exam\\ExamCPPOOP_M15\\AdminMenu.cpp",
+              "RelativeToolTip": "AdminMenu.cpp",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-23T13:30:51.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "admin.json",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Test GitHub\\C\u002B\u002B OOP M15 Project\\C-OOP-M15-Exam\\ExamCPPOOP_M15\\admin.json",
+              "RelativeDocumentMoniker": "admin.json",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Test GitHub\\C\u002B\u002B OOP M15 Project\\C-OOP-M15-Exam\\ExamCPPOOP_M15\\admin.json",
+              "RelativeToolTip": "admin.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-23T14:02:04.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Admin.h",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Test GitHub\\C\u002B\u002B OOP M15 Project\\C-OOP-M15-Exam\\ExamCPPOOP_M15\\Admin.h",
+              "RelativeDocumentMoniker": "Admin.h",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Test GitHub\\C\u002B\u002B OOP M15 Project\\C-OOP-M15-Exam\\ExamCPPOOP_M15\\Admin.h",
+              "RelativeToolTip": "Admin.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-23T14:02:04.842Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
