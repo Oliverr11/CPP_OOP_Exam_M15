@@ -2,64 +2,78 @@
 
 void AdminMenu::MainMenu() {
     system("cls");
-    cout << "================== WELCOME ==================\n";
-    cout << "\n1 ) Modify User \n"; // can create account, delete account, change information and password
-    cout << "\n2 ) View Statistics\n";
-    cout << "\n3 ) Manage Test\n\n";
-    cout << "=============================================\n";
-
-    string input; 
     int opt;
 
+    while (true) {
+        cout << "================== WELCOME ==================\n";
+        cout << "\n1 ) Modify User \n";
+        cout << "\n2 ) View Statistics\n";
+        cout << "\n3 ) Manage Test\n\n";
+        cout << "=============================================\n";
+
         cout << "\nEnter Option: ";
-        getline(cin, input); 
+        string input;
+        getline(cin, input);
         system("cls");
-            if (input.length() > 1) {
-                throw invalid_argument("Invalid input. Please enter a single valid integer.");
-            }
 
-            // string -> int 
+        // Check for empty input
+        if (input.empty()) {
+            cout << "Error: No input provided. Please enter a valid option." << endl;
+            continue;
+        }
+
+        // Check for non-integer input
+        if (input.length() > 1 || !isdigit(input[0])) {
+            cout << "Error: Invalid input. Please enter a single valid integer." << endl;
+            continue;
+        }
+
+        // Convert string to int
+        try {
             opt = stoi(input);
+        }
+        catch (const invalid_argument&) {
+            cout << "Error: Invalid input. Please enter a valid integer." << endl;
+            continue;
+        }
 
-            switch (opt) {
-            case 1:
-                system("cls");
-                ModifyUserMenu();   
-                break;
-            case 2:
-                system("cls");
-                ViewStatistics();
-                break;
-            case 3:
-                system("cls");
-                ManageTestMenu();
-                break;
-            default:
-                cout << "Error: Invalid option. Please try again." << endl;
-                break; 
-            }
-        
-       
-    
+        switch (opt) {
+        case 1:
+            ModifyUserMenu();
+            break;
+        case 2:
+            ViewStatistics();
+            break;
+        case 3:
+            ManageTestMenu();
+            break;
+        default:
+            cout << "Error: Invalid option. Please try again." << endl;
+            MainMenu(); 
+            break;
+        }
+        break; // Exit the loop after processing a valid option
+    }
 }
 
 void AdminMenu::ModifyUserMenu() {
     system("cls");
 
-    cout << "================== MODIFY USER ==================\n";
-    
-    cout << "\n1 ) Create Account\n";
-    cout << "\n2 ) Delete Account\n";
-    cout << "\n3 ) Change Information\n";
-    cout << "\n4 ) Back\n\n";
-    cout << "=================================================\n";
-
-    string input; 
     int opt;
 
     while (true) {
+        cout << "================== MODIFY USER ==================\n";
+    
+        cout << "\n1 ) Create Account\n";
+        cout << "\n2 ) Delete Account\n";
+        cout << "\n3 ) Change Information\n";
+        cout << "\n4 ) Back\n\n";
+        cout << "=================================================\n";
+
+        string input; 
         cout << "Enter Option: ";
         getline(cin, input); 
+        system("cls");
 
         try {
             if (input.length() > 1) {
@@ -92,7 +106,7 @@ void AdminMenu::ModifyUserMenu() {
                 break;
             default:
                 cout << "Error: Invalid option. Please try again." << endl;
-                system("cls");
+                ModifyUserMenu();
                 break; 
             }
         }

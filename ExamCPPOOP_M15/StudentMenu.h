@@ -21,6 +21,7 @@ public :
 	void TakeExam();
 	void ViewCategories();
 	void ViewExamResults();
+	void ViewStudentInformation();
 
 	void Register();
 	bool Login();

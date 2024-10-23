@@ -36,7 +36,8 @@ void StudentMenu::ExamMenu() {
         cout << "\n1 ) View Categories" << endl;
         cout << "\n2 ) Take a Test" << endl;
         cout << "\n3 ) View Exam Results" << endl;
-        cout << "\n4 ) Exit" << endl;
+        cout << "\n4 ) My Information" << endl;
+        cout << "\n5 ) Exit" << endl;
         cout << "\n===============================================" << endl;
 
         int opt;
@@ -59,6 +60,9 @@ void StudentMenu::ExamMenu() {
             ViewExamResults();
             break;
         case 4:
+            ViewStudentInformation();
+            break;
+        case 5:
             cout << "\nExiting..." << endl;
             menu = false;
             break;
@@ -115,6 +119,17 @@ void StudentMenu::ViewExamResults()
     cout << "\n=============================================================" << endl << endl;
     cout << "# Press Enter To Continue..." << endl;
     getchar();  getchar(); system("cls");
+    ExamMenu();
+}
+
+void StudentMenu::ViewStudentInformation()
+{
+    system("cls");
+    cout << "===================== My Information =====================";
+    student.ViewStudentInformation();
+    cout << "\n==========================================================" << endl;
+    cout << "# Press Enter To Continue..." << endl;
+    getchar(); getchar();system("cls");
     ExamMenu();
 }
 

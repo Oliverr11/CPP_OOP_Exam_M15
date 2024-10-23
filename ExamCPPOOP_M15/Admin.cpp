@@ -30,7 +30,7 @@ void Admin::DeleteAccount(string userName)
             cout << "\nAccount and exam records deleted successfully!" << endl;
         }
         else {
-            cout << "\nAccount deleted, but failed to delete exam records." << endl;
+            cout << "\nAccount deleted successfully!" << endl;
         }
     }
     else {

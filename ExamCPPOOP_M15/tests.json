@@ -286,6 +286,16 @@
                     "4"
                 ],
                 "questionText": "test"
+            },
+            {
+                "correctAnswer": 2,
+                "options": [
+                    "1",
+                    "2",
+                    "3",
+                    "4"
+                ],
+                "questionText": "test"
             }
         ]
     }

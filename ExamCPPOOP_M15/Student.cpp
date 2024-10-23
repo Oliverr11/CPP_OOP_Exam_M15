@@ -23,6 +23,9 @@ bool Student::Login(string LoginId, string LoginPassword)
 	if (user == nullptr) {
 		return true; 
 	}
+    RegisterPassword = user->RegisterPassword;
+    address = user->address;
+    phone = user->phone;
     RegisterID = user->RegisterID; 
     fullName = user->fullName;      
 	return false; 
@@ -340,6 +343,14 @@ void Student::ViewCategories()
     for (auto item : tests) {
         cout << "\n- " << item["category"] << endl;
     }
+}
+
+void Student::ViewStudentInformation()
+{
+
+    User user(RegisterID,RegisterPassword,fullName,address,phone);
+    user.Display();
+
 }
 
 bool Student::UserExists(string username)

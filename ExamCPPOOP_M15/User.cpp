@@ -11,11 +11,11 @@ User::User(string RegisterID, string RegisterPassword, string fullName, string a
 
 void User::Display()
 {
-	cout << "Account ID : " << RegisterID
-		<< " Account Password : " << RegisterPassword
-		<< " Full Name : " << fullName
-		<< " Address : " << address
-		<< " Phone : " << phone << endl;
+	cout << "\n\nAccount ID : " << RegisterID
+		<< " \n\nAccount Password : " << RegisterPassword
+		<< " \n\nFull Name : " << fullName
+		<< " \n\nAddress : " << address
+		<< " \n\nPhone : " << phone << endl;
 }
 
 

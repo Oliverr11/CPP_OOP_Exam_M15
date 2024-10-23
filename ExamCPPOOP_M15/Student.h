@@ -29,6 +29,8 @@ public :
 	void ViewStatistics(string studentName);
 	void ViewCategories();
 
+	void ViewStudentInformation();
+
 	bool UserExists(string username);
 
 
